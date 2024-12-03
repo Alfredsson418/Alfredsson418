@@ -1,7 +1,9 @@
 # Hello There! 
 
 # What I am working on...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=NetSpectre&theme=tokyonight)](https://github.com/Alfredsson418/NetSpectre)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=hawkeye&theme=tokyonight)](https://github.com/Alfredsson418/hawkeye)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=wiretap&theme=tokyonight)](https://github.com/Alfredsson418/wiretap)
+
 
 # Stats
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
