@@ -18,5 +18,4 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
   <img alt="Profile details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfredsson418&theme=tokyonight">
   <img alt="Profile details" src="https://github-readme-stats.vercel.app/api?username=Alfredsson418&show_icons=true&theme=tokyonight&hide_title=true&hide=commits">
   <img alt="Profile details" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredsson418&layout=compact&theme=tokyonight">
-
 </p>
