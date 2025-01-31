@@ -6,10 +6,27 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
   <a href="https://github.com/Alfredsson418/hawkeyes">
     <img alt="hawkeyes" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=hawkeyes&theme=tokyonight">
   </a>
+  <!--
   <a href="https://github.com/Alfredsson418/Homepage">
     <img alt="hawkeyes" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=Homepage&theme=tokyonight">
   </a>
+  -->
+  
 </p>
+
+<h2>Languages</h2>
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+<h2>Setup</h2>
+<p align="center">
+  <img alt="Zed" src="https://img.shields.io/badge/Zed-%23FFF?style=for-the-badge">
+  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-Mint?style=for-the-badge">
+</p>
+
 
 <h2>Stats</h2>
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
