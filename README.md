@@ -54,7 +54,3 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
   <img alt="Profile details" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredsson418&layout=compact&theme=tokyonight">
   <img alt="Profile details" src="https://github-readme-stats.vercel.app/api?username=Alfredsson418&show_icons=true&theme=tokyonight&hide_title=true&hide=commits">
 </p>
-
-<p align="center">
-  Note that I removed my old e-mail, so about 400 commits is lost to my account.
-</p>
