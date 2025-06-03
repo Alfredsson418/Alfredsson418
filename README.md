@@ -11,9 +11,15 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
     <img alt="watchdog" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=watchdog&theme=tokyonight">
   </a>
   -->
+  
+  <a href="https://github.com/Alfredsson418/SwaySettings">
+    <img alt="GDB-guide" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=SwaySettings&theme=tokyonight">
+  </a>
+  <!--
   <a href="https://github.com/Alfredsson418/GDB-guide">
     <img alt="GDB-guide" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=GDB-guide&theme=tokyonight">
   </a>
+  -->
   <!--
   <a href="https://github.com/Alfredsson418/Homepage">
     <img alt="hawkeyes" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=Homepage&theme=tokyonight">
