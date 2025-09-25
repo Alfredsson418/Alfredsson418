@@ -3,18 +3,24 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
 
 <h2>What I am working on...</h3>
 <p align="center">
+  <!--
   <a href="https://github.com/Alfredsson418/hawkeyes">
     <img alt="hawkeyes" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=hawkeyes&theme=tokyonight">
+  </a>
+  -->
+  <a href="https://github.com/Alfredsson418/hawkeyes">
+    <img alt="ncurses wrapper" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=ncurses-wrapper&theme=tokyonight">
   </a>
   <!--
   <a href="https://github.com/Alfredsson418/watchdog">
     <img alt="watchdog" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=watchdog&theme=tokyonight">
   </a>
   -->
-  
+  <!--
   <a href="https://github.com/Alfredsson418/SwaySettings">
     <img alt="GDB-guide" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=SwaySettings&theme=tokyonight">
   </a>
+  -->
   <!--
   <a href="https://github.com/Alfredsson418/GDB-guide">
     <img alt="GDB-guide" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=GDB-guide&theme=tokyonight">
