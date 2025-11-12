@@ -1,16 +1,19 @@
-<h2>Hello There!</h3> 
+<h2>Hello There!</h2> 
 I'm a student at Karlstad University interested in Networking and Cybersecurity! Contact me on here if you are intrested in collaborating.
 
-<h2>What I am working on... :eyes:</h3> 
+<h2>What I am working on... :eyes:</h2> 
 <p align="center">
+  Nothing rn
   <!--
   <a href="https://github.com/Alfredsson418/hawkeyes">
     <img alt="hawkeyes" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=hawkeyes&theme=tokyonight">
   </a>
   -->
+  <!--
   <a href="https://github.com/Alfredsson418/hawkeyes">
     <img alt="ncurses wrapper" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=ncurses-wrapper&theme=tokyonight">
   </a>
+  -->
   <!--
   <a href="https://github.com/Alfredsson418/watchdog">
     <img alt="watchdog" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=watchdog&theme=tokyonight">
@@ -56,8 +59,10 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
   -->
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  
 </p>
+<h2>Links</h2>
+<h3><a href="https://github.com/stars/Alfredsson418/lists/writeups">Writeups</a></h3> 
+
 
 
 
