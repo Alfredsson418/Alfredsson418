@@ -3,7 +3,9 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
 
 <h2>What I am working on... :eyes:</h2> 
 <p align="center">
-  Nothing rn
+  <a href="https://github.com/Alfredsson418/observe">
+    <img alt="observe" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=observe&theme=tokyonight">
+  </a>
   <!--
   <a href="https://github.com/Alfredsson418/hawkeyes">
     <img alt="hawkeyes" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfredsson418&repo=hawkeyes&theme=tokyonight">
@@ -61,7 +63,7 @@ I'm a student at Karlstad University interested in Networking and Cybersecurity!
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 <h2>Links</h2>
-<h3><a href="https://github.com/stars/Alfredsson418/lists/writeups">Writeups</a></h3> 
+<!-- <h3><a href="https://github.com/stars/Alfredsson418/lists/writeups">Writeups</a></h3> -->
 
 
 
