@@ -1,5 +1,5 @@
 <h2>Hello There!</h2> 
-I'm a student at Karlstad University interested in Networking and Cybersecurity! Contact me on here if you are intrested in collaborating.
+Please DONT contact me personally for collaborations, submit pull request per repo of you want to collaborate on my projects.
 
 <h2>What I am working on... :eyes:</h2> 
 <p align="center">
